@@ -16,7 +16,7 @@ Search for `Foo description` and note that the `Foo` enum's description is prese
 
 5. Run an introspection query via the Rover CLI: `npx -p @apollo/rover@0.3.0 rover graph introspect http://localhost:4000`
 
-```shell
+```
 Introspection Response: 
 
 """Exposes a URL that specifies the behaviour of this scalar."""
